@@ -1,3 +1,3 @@
 # Movie Rating App
 
-Rate different movies based 
+Rate different movies and view what is popular! Download the zip, extract it, and navigate to the directory in your command prompt. Run npm install. You will need expo cli for this and will have to download Expo Go for iOS or android. Learn more here https://docs.expo.dev/get-started/installation/. The sdk version may be deprecated, so either you can download an earlier version of Expo Go on android that supports the expo sdk the app runs on or you can run expo upgrade. If you run expo upgrade, please verify the package versions are the same as the ones in the package.json file in this repo. If it isn't, please run npm install package_name@V.X.X (eg: npm install react-native-elements@1.2.7). If the installation fails, add --legacy-peer-deps to the end of the installation command. Once done, run expo start and scan the QR code. 
